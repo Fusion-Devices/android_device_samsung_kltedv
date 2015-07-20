@@ -1,0 +1,45 @@
+[
+
+  {
+    "remote": "fs-dev",
+    "repository": "android_device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "fs-dev",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "fs-dev",
+    "repository": "android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "fs-dev",
+    "repository": "android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "fusion",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "fs-dev",
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-12.1"
+  }
+]
